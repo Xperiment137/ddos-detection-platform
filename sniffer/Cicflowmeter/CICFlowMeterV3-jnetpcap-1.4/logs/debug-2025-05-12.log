@@ -1,0 +1,2024 @@
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 17:44:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 15
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 15
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 6 seconds
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:44:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 15
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 15
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 6 seconds
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:45:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 19
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 19
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 41 seconds
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:45:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:45:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 19
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 19
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 41 seconds
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:45:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 22
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 22
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 73 seconds
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:45:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:46:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 22
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 22
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 73 seconds
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:46:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:46:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 25
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 25
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 108 seconds
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:46:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:46:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 25
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 25
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 108 seconds
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 17:46:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 29
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 29
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 143 seconds
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 29
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 29
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 143 seconds
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 32
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 32
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 175 seconds
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:47:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 32
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 32
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 175 seconds
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:47:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 35
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 35
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 210 seconds
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:48:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 35
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 35
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 210 seconds
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:48:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 38
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 38
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 245 seconds
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:48:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 38
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 38
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 245 seconds
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 17:49:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 40
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 40
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 356 seconds
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 5
+2025-05-12 17:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:51:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:51:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 5
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 5
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 12 seconds
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 1
+2025-05-12 17:51:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 17:52:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:52:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 10
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 10
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 47 seconds
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 1
+2025-05-12 17:52:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:14:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:14:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:14:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:14:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:14:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 125207
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 125207
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 20 seconds
+2025-05-12 18:14:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:14:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 18:14:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:15:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 125207
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 125207
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 20 seconds
+2025-05-12 18:15:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 18:15:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 18:18:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62638
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62638
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62637
+2025-05-12 18:18:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:19:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:19:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62638
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62638
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62637
+2025-05-12 18:19:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62638
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62638
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62637
+2025-05-12 18:19:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:19:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:19:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:19:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62638
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62638
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62637
+2025-05-12 18:19:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:22:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:22:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:22:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:22:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:22:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 133445
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 133445
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 20 seconds
+2025-05-12 18:22:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:22:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 18:22:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:22:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:22:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:22:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:22:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:22:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 133445
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 133445
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 20 seconds
+2025-05-12 18:22:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:22:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 18:22:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 47854
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 47854
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 7 seconds
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 47853
+2025-05-12 18:23:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 28886
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 28886
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 28885
+2025-05-12 18:25:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 28886
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 28886
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 28885
+2025-05-12 18:26:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:26:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:26:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 28886
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 28886
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 28885
+2025-05-12 18:26:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 28886
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 28886
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 28885
+2025-05-12 18:26:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:27:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:27:15 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 28886
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 28886
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 5 seconds
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 28885
+2025-05-12 18:27:16 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:31:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:31:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:31:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:31:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:31:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 41818
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 41818
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 7 seconds
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41817
+2025-05-12 18:31:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:31:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:31:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:31:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:31:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:31:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 41818
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 41818
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 7 seconds
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41817
+2025-05-12 18:31:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 48429
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 48429
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 52 seconds
+2025-05-12 18:32:04 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:32:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41817
+2025-05-12 18:32:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:32:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:32:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:29 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 48429
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 48429
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 52 seconds
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41817
+2025-05-12 18:32:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:32:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 48429
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 48429
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 52 seconds
+2025-05-12 18:32:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:32:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41817
+2025-05-12 18:32:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:33:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:33:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:33:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:33:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:33:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 48429
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 48429
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 52 seconds
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41817
+2025-05-12 18:33:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:33:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:33:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 55173
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 55173
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 156 seconds
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 43977
+2025-05-12 18:33:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 4163
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 4163
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 6 seconds
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4162
+2025-05-12 18:34:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 4768
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 4768
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 23 seconds
+2025-05-12 18:35:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:35:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4162
+2025-05-12 18:35:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 11642
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 11642
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 43 seconds
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 11036
+2025-05-12 18:35:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 18:41:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 18:42:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 18:42:13 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 18:42:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 18:42:39 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 3
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 3
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 2
+2025-05-12 18:42:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 6
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 6
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 24 seconds
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 18:43:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 6
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 6
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 24 seconds
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 3
+2025-05-12 18:43:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 10
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 10
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 52 seconds
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 18:43:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:44:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 10
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 10
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 52 seconds
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 4
+2025-05-12 18:44:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:44:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:44:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 55223
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 55223
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 91 seconds
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 55215
+2025-05-12 18:44:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 95390
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 95390
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 116 seconds
+2025-05-12 18:44:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:44:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 55947
+2025-05-12 18:44:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 95390
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 95390
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 116 seconds
+2025-05-12 18:45:28 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:45:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 55947
+2025-05-12 18:45:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:46:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:46:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 95390
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 95390
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 116 seconds
+2025-05-12 18:46:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:46:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 55947
+2025-05-12 18:46:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:46:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:46:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:46:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:46:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:46:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 133222
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 133222
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 218 seconds
+2025-05-12 18:46:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:46:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 93778
+2025-05-12 18:46:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 133222
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 133222
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 218 seconds
+2025-05-12 18:47:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 93778
+2025-05-12 18:47:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:47:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:47:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:47:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:47:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:47:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 133222
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 133222
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 218 seconds
+2025-05-12 18:48:00 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:48:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 93778
+2025-05-12 18:48:01 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 41683
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 41683
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 6 seconds
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41682
+2025-05-12 18:48:26 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:48:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:48:48 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 41683
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 41683
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 6 seconds
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 41682
+2025-05-12 18:48:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:49:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:49:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:49:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:49:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:49:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 98621
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 98621
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 51 seconds
+2025-05-12 18:49:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:49:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59783
+2025-05-12 18:49:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:49:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:49:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:49:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:49:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:49:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 98621
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 98621
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 51 seconds
+2025-05-12 18:49:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:49:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59783
+2025-05-12 18:49:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:50:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:50:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:50:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:50:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:50:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 166703
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 166703
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 125 seconds
+2025-05-12 18:50:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 125319
+2025-05-12 18:50:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:58:20 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 30
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 28
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:2 2 
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 6 seconds
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 9
+2025-05-12 18:58:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:58:37 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:58:37 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:58:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 1773
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 1769
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:4 4 
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 22 seconds
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 70
+2025-05-12 18:58:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:58:55 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:58:55 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:58:55 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 1796
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 1790
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:6 6 
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 41 seconds
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 74
+2025-05-12 18:58:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:59:12 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:12 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:12 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:12 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 1807
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 1799
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:8 8 
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 59 seconds
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 75
+2025-05-12 18:59:12 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 18:59:30 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:30 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:30 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:30 ERROR cic.cs.unb.ca.ifm.lib.PacketReader    null
+********************************************************************************
+0000:*f2 c7 4f 81  56 0d 70 cf* 49 a4 25 e5  08 06 00 01    ..O.V.p.I.%.....
+0010: 08 00 06 04  00 02 70 cf  49 a4 25 e5  c0 a8 cd 36    ......p.I.%....6
+0020: f2 c7 4f 81  56 0d c0 a8  cd 42*                      ..O.V....B      
+
+
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 1843
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 1835
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:8 8 
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 76 seconds
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 75
+2025-05-12 18:59:30 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 19:04:11 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:04:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:40 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 27976
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 27976
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 4 seconds
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 27976
+2025-05-12 19:04:41 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 27976
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 27976
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 4 seconds
+2025-05-12 19:04:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:04:58 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 27976
+2025-05-12 19:04:58 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 27976
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 27976
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 4 seconds
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 27976
+2025-05-12 19:05:14 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:05:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:05:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:05:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:05:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:05:31 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 27976
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 27976
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 4 seconds
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 27976
+2025-05-12 19:05:32 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62193
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62193
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 19:06:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:06:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62193
+2025-05-12 19:06:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:06:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:06:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:06:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:06:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:06:44 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62193
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62193
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62193
+2025-05-12 19:06:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 62193
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 62193
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62193
+2025-05-12 19:07:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:07:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:07:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:07:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:07:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:07:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 121456
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 121456
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 73 seconds
+2025-05-12 19:07:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:07:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62193
+2025-05-12 19:07:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:08:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:08:17 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 121456
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 121456
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 73 seconds
+2025-05-12 19:08:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:08:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 62193
+2025-05-12 19:08:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:09:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:09:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 47722
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 47722
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 7 seconds
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 47721
+2025-05-12 19:09:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:10:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:10:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 106139
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 106139
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 31 seconds
+2025-05-12 19:10:24 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:10:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 60927
+2025-05-12 19:10:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:11:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:11:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:11:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:11:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:11:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 168628
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 168628
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 64 seconds
+2025-05-12 19:11:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:11:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 19:11:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:12:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:12:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:12:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:12:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:12:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 1 seconds
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 228797
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 228797
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 114 seconds
+2025-05-12 19:12:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:12:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 19:12:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 0
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 0
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 0
+2025-05-12 19:34:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 2835
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 2835
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 0 seconds
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 2835
+2025-05-12 19:34:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 56165
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 56165
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 56165
+2025-05-12 19:34:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:35:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:35:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:35:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:35:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:35:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 113653
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 113653
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 29 seconds
+2025-05-12 19:35:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:35:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:35:10 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:35:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:35:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:35:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:35:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:35:49 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:35:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:35:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:35:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:36:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:36:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:36:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:36:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:36:34 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:36:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:36:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:36:37 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:37:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:37:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:37:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:37:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:37:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:37:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:37:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:37:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:38:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:38:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:38:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:38:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:38:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:38:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:38:50 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:38:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:38:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:38:53 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:39:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:39:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:39:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:39:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:39:35 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:39:36 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:39:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:39:38 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:40:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:40:18 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:40:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:40:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:40:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:41:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:41:02 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 144345
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 144345
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 70 seconds
+2025-05-12 19:41:03 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:41:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 59366
+2025-05-12 19:41:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:41:55 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 17030
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 17030
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 2 seconds
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 17030
+2025-05-12 19:41:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:42:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:42:19 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 72881
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 72881
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 18 seconds
+2025-05-12 19:42:20 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:42:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 55851
+2025-05-12 19:42:21 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:42:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:42:56 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 129268
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 129268
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 47 seconds
+2025-05-12 19:42:57 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:42:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65536
+2025-05-12 19:42:59 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:43:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:43:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:43:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:43:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:43:42 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 24005
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 24005
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 9 seconds
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 24005
+2025-05-12 19:43:43 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:44:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:44:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:44:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:44:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:44:07 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 85005
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 85005
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 26 seconds
+2025-05-12 19:44:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:44:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 64643
+2025-05-12 19:44:09 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:44:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:44:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:44:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:44:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:44:45 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 141380
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 141380
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 56 seconds
+2025-05-12 19:44:46 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:44:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 65537
+2025-05-12 19:44:47 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 45193
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 45193
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 8 seconds
+2025-05-12 19:45:51 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:45:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 45192
+2025-05-12 19:45:52 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:46:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:46:22 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 100143
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 100143
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 31 seconds
+2025-05-12 19:46:23 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:46:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 54951
+2025-05-12 19:46:25 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
+2025-05-12 19:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    CICFlowMeterV2 found: 1 Files.
+2025-05-12 19:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+2025-05-12 19:47:05 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Working on... captura.pcap 
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.lib.PacketReader    We have read All packets!
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    Done! in 0 seconds
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Total packets: 157258
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Valid packets: 157258
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    	 Ignored packets:0 0 
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    PCAP duration 65 seconds
+2025-05-12 19:47:06 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+2025-05-12 19:47:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    
+
+----------------------------------------------------------------------------
+ TOTAL FLOWS GENERATED: 58775
+2025-05-12 19:47:08 INFO  cic.cs.unb.ca.ifm.CICFlowMeter    ----------------------------------------------------------------------------
+
