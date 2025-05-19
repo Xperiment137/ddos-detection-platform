@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Resumen en Tiempo Real</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="/static/script.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+            display: flex;
+            gap: 2rem;
+        }
+
+        .panel {
+            flex: 1;
+            border: 1px solid #ccc;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            background-color: #fff;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .tabla-scroll {
+            max-height: 400px; /* Ajusta este valor a lo que te quede cómodo */
+            overflow-y: auto;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            padding: 12px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        th {
+            background-color: #007BFF;
+            color: white;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        canvas {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Panel Resumen -->
+    <div class="panel">
+        <h1>Predicción por flujo</h1>
+        <div class="tabla-scroll">
+            <table id="tablaResumen">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Predicción</th>
+                        <th>Confianza</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Panel Gráfico -->
+    <div class="panel">
+        <h1>Distribución de predicciones</h1>
+        <canvas id="graficoConteo"></canvas>
+    </div>
+</body>
+</html>
